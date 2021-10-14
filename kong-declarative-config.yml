@@ -9,4 +9,3 @@ services:
           - GET
           paths:
           - /exemplo$
-          strip_path: false
