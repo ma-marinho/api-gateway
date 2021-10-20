@@ -14,10 +14,10 @@
 **Telas Konga** <br>
 
 
-![](../tela_service.png)
-![](../tela_service02.png)
-![](../add_route.png)
-![](../add_route02.png)
+![](./tela_service.png)
+![](./tela_service02.png)
+![](./add_route.png)
+![](./add_route02.png)
 
 
 **Resposta do backend.** <br>
