@@ -26,7 +26,7 @@ As configurações do kong fica no arquivo  kong-declarative-config.yml.
 
 <p>Docker e docker-compose instalá-do.</p>    
 
-1° docker-compose up
+1° docker-compose up <br>
 2° curl -v http://localhost:8000/exemplo
 
 **Resposta do backend.**
